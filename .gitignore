@@ -160,7 +160,6 @@ gradle-app.setting
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,gradle
-/build.gradle
 /gradlew
 /gradlew.bat
 /settings.gradle
